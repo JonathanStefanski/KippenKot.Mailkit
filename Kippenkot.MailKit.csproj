@@ -14,6 +14,8 @@
 		<Description>Email Helper Service for .NET Core</Description>
 		<PackageReadmeFile>readme.md</PackageReadmeFile>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<RepositoryType>git</RepositoryType>
+		<RepositoryUrl>https://github.com/JonathanStefanski/KippenKot.Mailkit</RepositoryUrl>
 	</PropertyGroup>
 
 	<ItemGroup>
